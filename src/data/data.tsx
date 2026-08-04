@@ -294,6 +294,8 @@ export const experience: TimelineItem[] = [
           Built and managed <strong>DarkIntegralGaming</strong>, a YouTube channel focused on the Pokémon Trading Card
           Game Online, growing it to <strong>70,000+ subscribers and 25M+ views</strong>.
         </p>
+             <p>Produced and published music covers that earned over <strong>5 million streams</strong> on Spotify.</p>
+
         <p>Collaborated with The Pokémon Company on promotional content for Pokémon Trading Card Game Online.</p>
       </>
     ),
