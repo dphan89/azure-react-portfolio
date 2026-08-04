@@ -72,8 +72,7 @@ export const heroData: Hero = {
   description: (
     <>
       <p className="prose-sm text-stone-200 sm:prose-base lg:prose-lg">
-        I'm a Houston-based <strong className="text-stone-100">self-employed content creator</strong> with experience
-        in programming, databases, technical troubleshooting, and managing digital projects independently.
+        I'm a Houston-based <strong className="text-stone-100">self-employed content creator and Computer Information Systems graduate</strong> with extensive experience in digital media and a growing foundation in programming, databases, and hardware and software troubleshooting.
       </p>
     </>
   ),
@@ -141,7 +140,7 @@ export const skills: SkillGroup[] = [
       },
       {
         name: 'Adobe Photoshop',
-        level: 4,
+        level: 5,
       },
     ],
   },
@@ -167,7 +166,7 @@ export const skills: SkillGroup[] = [
     skills: [
       {
         name: 'Visual Studio Code',
-        level: 4,
+        level: 5,
       },
       {
         name: 'Microsoft Azure',
@@ -175,7 +174,7 @@ export const skills: SkillGroup[] = [
       },
       {
         name: 'SQL',
-        level: 2,
+        level: 3,
       },
     ],
   },
