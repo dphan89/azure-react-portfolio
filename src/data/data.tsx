@@ -77,7 +77,7 @@ export const heroData: Hero = {
           self-employed content creator and Computer Information Systems graduate
         </strong>{' '}
         with extensive experience in digital media and a growing foundation in programming, databases, and hardware and
-        software troubleshooting.
+        software troubleshooting. I customized and deployed this website as a practical example of my work.
       </p>
     </>
   ),
@@ -98,7 +98,7 @@ export const heroData: Hero = {
 
 export const aboutData: About = {
   profileImageSrc: profilepic,
-  description: `I'm a recent Computer Information Systems graduate and YouTube content creator with a strong background in
+  description: `I'm a Computer Information Systems graduate and YouTube content creator with a strong background in
   digital media. My university coursework and projects gave me a foundation in programming, databases, and
   object-oriented design, including working with variables, methods, and basic application structure.`,
   aboutItems: [
