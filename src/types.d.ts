@@ -28,3 +28,7 @@ declare module '*.mp4' {
   const value: string;
   export default value;
 }
+
+// CSS / SCSS imports used for global styles (side-effect imports)
+declare module '*.css';
+declare module '*.scss';
