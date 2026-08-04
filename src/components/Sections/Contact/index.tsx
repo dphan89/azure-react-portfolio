@@ -7,9 +7,9 @@ import {ContactType, ContactValue} from '../../../data/dataDef';
 import FacebookIcon from '../../Icon/FacebookIcon';
 import GithubIcon from '../../Icon/GithubIcon';
 import InstagramIcon from '../../Icon/InstagramIcon';
-import YouTubeIcon from '../../Icon/YouTubeIcon';
 import LinkedInIcon from '../../Icon/LinkedInIcon';
 import TwitterIcon from '../../Icon/TwitterIcon';
+import YouTubeIcon from '../../Icon/YouTubeIcon';
 import Section from '../../Layout/Section';
 // Contact form saved for later — commented out per request
 // import ContactForm from './ContactForm';

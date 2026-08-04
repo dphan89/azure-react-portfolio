@@ -12,7 +12,7 @@ const TimelineItem: FC<{item: TimelineItem}> = memo(({item}) => {
     return (
       <span className="flex-1 text-sm sm:flex-none">
         {before && <>{before} </>}
-        <a href={url} target="_blank" rel="noopener noreferrer" className="text-blue-400 underline">
+        <a className="text-blue-400 underline" href={url} rel="noopener noreferrer" target="_blank">
           {url}
         </a>
       </span>

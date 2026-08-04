@@ -72,7 +72,12 @@ export const heroData: Hero = {
   description: (
     <>
       <p className="prose-sm text-stone-200 sm:prose-base lg:prose-lg">
-        I'm a Houston-based <strong className="text-stone-100">self-employed content creator and Computer Information Systems graduate</strong> with extensive experience in digital media and a growing foundation in programming, databases, and hardware and software troubleshooting.
+        I'm a Houston-based{' '}
+        <strong className="text-stone-100">
+          self-employed content creator and Computer Information Systems graduate
+        </strong>{' '}
+        with extensive experience in digital media and a growing foundation in programming, databases, and hardware and
+        software troubleshooting.
       </p>
     </>
   ),
@@ -90,7 +95,7 @@ export const heroData: Hero = {
     },
   ],
 };
-  
+
 export const aboutData: About = {
   profileImageSrc: profilepic,
   description: `I'm a recent Computer Information Systems graduate and YouTube content creator with a strong background in
@@ -261,7 +266,7 @@ export const portfolioItems: PortfolioItem[] = [
 export const education: TimelineItem[] = [
   {
     date: 'Dec 2025',
-    location: "Texas A&M University–Victoria",
+    location: 'Texas A&M University–Victoria',
     title: 'B.S. Computer Information Systems — Texas A&M University–Victoria',
     content: (
       <>
@@ -288,10 +293,8 @@ export const experience: TimelineItem[] = [
         <p>
           Built and managed <strong>DarkIntegralGaming</strong>, a YouTube channel focused on the Pokémon Trading Card
           Game Online, growing it to <strong>70,000+ subscribers and 25M+ views</strong>.
-           </p>
-        <p>
-          Collaborated with The Pokémon Company on promotional content for Pokémon Trading Card Game Online.
         </p>
+        <p>Collaborated with The Pokémon Company on promotional content for Pokémon Trading Card Game Online.</p>
       </>
     ),
   },
@@ -312,7 +315,6 @@ export const experience: TimelineItem[] = [
  * Testimonial section
  */
 
-
 export const testimonial: TestimonialSection = {
   imageSrc: testimonialImage,
   testimonials: [
@@ -323,7 +325,7 @@ export const testimonial: TestimonialSection = {
     },
     {
       name: '@shinjiplay2309',
-      text: 'I\'m new to tcg.  This was suuuuper helpful.',
+      text: "I'm new to tcg.  This was suuuuper helpful.",
       image: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/14.jpg',
     },
     {
@@ -333,8 +335,6 @@ export const testimonial: TestimonialSection = {
     },
   ],
 };
-
-
 
 /**
  * Contact section
