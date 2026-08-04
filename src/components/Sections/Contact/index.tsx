@@ -11,7 +11,8 @@ import YouTubeIcon from '../../Icon/YouTubeIcon';
 import LinkedInIcon from '../../Icon/LinkedInIcon';
 import TwitterIcon from '../../Icon/TwitterIcon';
 import Section from '../../Layout/Section';
-import ContactForm from './ContactForm';
+// Contact form saved for later — commented out per request
+// import ContactForm from './ContactForm';
 
 const ContactValueMap: Record<ContactType, ContactValue> = {
   [ContactType.Email]: {Icon: EnvelopeIcon, srLabel: 'Email'},
@@ -34,13 +35,11 @@ const Contact: FC = memo(() => {
           <EnvelopeIcon className="hidden h-16 w-16 text-white md:block" />
           <h2 className="text-2xl font-bold text-white">{headerText}</h2>
         </div>
-        <div className="grid grid-cols-1 gap-6 md:grid-cols-2">
-          <div className="order-2 col-span-1 md:order-1 ">
-            <ContactForm />
-          </div>
-          <div className="order-1 col-span-1 flex flex-col gap-y-4 md:order-2">
+        <div className="grid grid-cols-1 gap-6">
+          {/* Contact form removed/commented out; saved for later */}
+          <div className="col-span-1">
             <p className="prose leading-6 text-neutral-300">{description}</p>
-            <dl className="flex flex-col space-y-4 text-base text-neutral-500 sm:space-y-2">
+            <dl className="mt-6 flex flex-col gap-y-4 text-base text-neutral-500 sm:space-y-2">
               {items.map(({type, text, href}) => {
                 const {Icon, srLabel} = ContactValueMap[type];
                 return (
