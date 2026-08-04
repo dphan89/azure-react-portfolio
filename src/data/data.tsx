@@ -77,7 +77,7 @@ export const heroData: Hero = {
           self-employed content creator and Computer Information Systems graduate
         </strong>{' '}
         with extensive experience in digital media and a growing foundation in programming, databases, and hardware and
-        software troubleshooting. I customized and deployed this website as a practical example of my work.
+        software troubleshooting. I customized and deployed this website as a practical example of my skills.
       </p>
     </>
   ),
