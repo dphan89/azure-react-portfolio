@@ -285,7 +285,7 @@ export const education: TimelineItem[] = [
 
 export const experience: TimelineItem[] = [
   {
-    date: '2015–Present — https://www.youtube.com/@darkintegralgaming',
+    date: '2015–Present',
     location: 'DarkIntegralGaming · Self-employed',
     title: 'Content Creator',
     content: (
