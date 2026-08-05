@@ -279,7 +279,20 @@ export const education: TimelineItem[] = [
     date: 'July 2026',
     location: 'Microsoft',
     title: 'Microsoft Certified: Azure Fundamentals (AZ-900)',
-    content: <p>Certification awarded: Microsoft Certified: Azure Fundamentals (AZ-900) — July 2026</p>,
+    content: (
+      <p>
+        Certification awarded: Microsoft Certified: Azure Fundamentals (AZ-900) — July 2026
+        <br />
+        <a
+          className="text-blue-400 underline"
+          href="https://learn.microsoft.com/api/credentials/share/en-us/donaldphan-6291/64818AFB46FDE1B4?sharingId=B609C2FAA0E814C7"
+          rel="noopener noreferrer"
+          target="_blank"
+        >
+          View Credentials
+        </a>
+      </p>
+    ),
   },
 ];
 
