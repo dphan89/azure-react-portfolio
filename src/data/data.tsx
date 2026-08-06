@@ -203,7 +203,7 @@ export const portfolioItems: PortfolioItem[] = [
   },
   {
     title: 'Spotify Artist Page',
-    description: 'Music covers with over 2 million streams on Spotify.',
+    description: 'Music covers with over 5 million streams on Spotify.',
     url: 'https://open.spotify.com/artist/6BU71EgsdMc56SqK6Hl4bD',
     image: '/images/thumbnails/Spotify.png',
   },
