@@ -1,8 +1,27 @@
-# Personal Portfolio
+# Donald Phan Portfolio Website
 
-This react portfolio webpage is based on the MIT‑licensed portfolio template created by Tim Baker:
-https://github.com/tbakerx/react-resume-template
+A personal portfolio website customized to present my background, technical skills, and project work as I pursue an entry-level technology role.
 
-I adapted the template to fit my personal needs, including customizing the data.tsx file and updating content throughout the site. Some modifications were made with AI assistance.
+**Live site:** [www.darkintegralgaming.com](https://www.darkintegralgaming.com/)
+<img width="978" height="331" alt="portfolioThumbnail" src="https://github.com/user-attachments/assets/e40f755c-5d93-4cf4-ac19-cd946c8ef02f" />
 
-Thanks to Tim Baker for providing an excellent open-source starting point.
+## Built With
+
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
+- Azure Static Web Apps
+- GitHub Actions
+
+## Customization and Deployment
+
+- Customized the template’s content, layout, images, and branding for my own portfolio.
+- Configured deployment to Azure Static Web Apps using GitHub Actions.
+- Connected the site to a custom domain.
+
+## Run Locally
+
+```bash
+corepack yarn install
+corepack yarn dev
