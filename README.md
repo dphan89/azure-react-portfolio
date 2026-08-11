@@ -1,9 +1,10 @@
 # Donald Phan Portfolio Website
 
-A personal portfolio website customized to present my background, technical skills, and project work as I pursue an entry-level technology role.
+A personal portfolio website customized from [Tim Baker’s React Resume Template](https://github.com/tbakerx/react-resume-template) to present my background, technical skills, and project work.
 
 **Live site:** [www.darkintegralgaming.com](https://www.darkintegralgaming.com/)
-<img width="978" height="331" alt="portfolioThumbnail" src="https://github.com/user-attachments/assets/e40f755c-5d93-4cf4-ac19-cd946c8ef02f" />
+
+<img width="978" height="331" alt="Portfolio website screenshot" src="https://github.com/user-attachments/assets/e40f755c-5d93-4cf4-ac19-cd946c8ef02f" />
 
 ## Built With
 
