@@ -266,12 +266,11 @@ export const portfolioItems: PortfolioItem[] = [
 export const education: TimelineItem[] = [
   {
     date: 'Dec 2025',
-    location: 'Texas A&M University–Victoria',
+    location: 'Victoria, Texas',
     title: 'B.S. Computer Information Systems — Texas A&M University–Victoria',
     content: (
       <>
         <p>Graduated Magna Cum Laude, 3.7 GPA</p>
-        <p>Degree conferred: Dec 2025</p>
       </>
     ),
   },
