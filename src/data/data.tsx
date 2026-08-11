@@ -190,14 +190,14 @@ export const skills: SkillGroup[] = [
  */
 export const portfolioItems: PortfolioItem[] = [
   {
-    title: 'Recent Youtube Example',
+    title: 'Recent Video Example',
     description: 'Example of my more recent content.',
     url: 'https://www.youtube.com/watch?v=k90vw-dVsw4',
     image: '/images/thumbnails/PracticallyUnfair.png',
   },
   {
     title: 'Highest Reach',
-    description: 'Example of my content with the highest reach, over half a million views.',
+    description: 'Example of my video with the highest reach, over half a million views.',
     url: 'https://www.youtube.com/watch?v=tJPi-PMTd9M&t=16s',
     image: '/images/thumbnails/HighestReach.png',
   },
@@ -207,20 +207,20 @@ export const portfolioItems: PortfolioItem[] = [
     url: 'https://open.spotify.com/artist/6BU71EgsdMc56SqK6Hl4bD',
     image: '/images/thumbnails/Spotify.png',
   },
+  {
+    title: 'Blazor / SQL Dashboard',
+    description: 'A dashboard built with Blazor and SQL.',
+    url: 'https://github.com/dphan89/blazor-nonProfit-dashboard',
+    image: '/images/thumbnails/dashboard.png',
+  },
+  {
+    title: 'This React Portfolio',
+    description: 'The source code on GitHub.',
+    url: 'https://github.com/dphan89/azure-react-portfolio',
+    image: '/images/thumbnails/portfolioThumbnail.png',
+  },
   /*
   // Projects below are commented out per request — do not delete, can restore later
-  {
-    title: 'Project title 4',
-    description: 'Give a short description of your project here.',
-    url: 'https://reactresume.com',
-    image: porfolioImage4,
-  },
-  {
-    title: 'Project title 5',
-    description: 'Give a short description of your project here.',
-    url: 'https://reactresume.com',
-    image: porfolioImage5,
-  },
   {
     title: 'Project title 6',
     description: 'Give a short description of your project here.',
