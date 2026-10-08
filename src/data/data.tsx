@@ -74,7 +74,7 @@ export const heroData: Hero = {
       <p className="prose-sm text-stone-200 sm:prose-base lg:prose-lg">
         I'm a Houston-based{' '}
         <strong className="text-stone-100">
-          self-employed content creator and Computer Information Systems graduate
+          Client Support Specialist and recent Computer Information Systems graduate
         </strong>{' '}
         with extensive experience in digital media and a growing foundation in programming, databases, and hardware and
         software troubleshooting. I customized and deployed this website as a practical example of my skills.
@@ -98,7 +98,7 @@ export const heroData: Hero = {
 
 export const aboutData: About = {
   profileImageSrc: profilepic,
-  description: `I'm a Computer Information Systems graduate and YouTube content creator with a strong background in
+  description: `I'm a recent Computer Information Systems graduate and client support specialist with a strong background in
   digital media. My university coursework and projects gave me a foundation in programming, databases, and
   object-oriented design, including working with variables, methods, and basic application structure.`,
   aboutItems: [
